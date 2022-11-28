@@ -3,7 +3,7 @@
 
 ## ✨ Sobre Mi
 
-Apasionado por nuevas tecnologias y con gran creatividad para el desarrollo web. Joven de 25 años recidente en la ciudad de Buenos Aires,Argentina con deseos de seguir aprendido, aportando y creando nuevos proyectos.
+Apasionado por nuevas tecnologias y con gran creatividad para el desarrollo web. Joven de 25 años recidente en la ciudad de Buenos Aires, Argentina con deseos de seguir aprendido, aportando y creando nuevos proyectos.
 
 ## 🛠 Habilidades
 
